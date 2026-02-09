@@ -7,3 +7,6 @@ Este repositório contém meus testes com Git e Docker.
 - `git commit -m "mensagem"`
 - `git push origin main`
 - `git rebase --continue`
+- `git pull`
+- `git status`
+- `git clone`
